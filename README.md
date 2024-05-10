@@ -1,2 +1,2 @@
 # Thabitha
-Multi-Talented
+Data sciences
